@@ -2,7 +2,7 @@
 ## Part 1: Imaging Technique Inspiration
 **VOICE OF NATURE**    [Link Text](https://thijsbiersteker.com/voice-of-nature)
 
-![An image of VOICE OF NATURE 1](readmeImages/VOICE_OF_NATURE_1_500_x_246.jpg)
+![An image of VOICE OF NATURE 1](readmeImages/VOICE_OF_NATURE_1_500_x_246.png)
 
 ![An image of Voice Of Nature 2](readmeImages/Voice_Of_Nature_2_500_x_281.jpg)
 
