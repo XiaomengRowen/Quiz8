@@ -1,6 +1,6 @@
 # Quiz8_xzha0523
 ## Part 1: Imaging Technique Inspiration
-**VOICE OF NATURE**    [Link Text](https://thijsbiersteker.com/voice-of-nature)
+**VOICE OF NATURE**    [Click to view link](https://thijsbiersteker.com/voice-of-nature)
 
 ![An image of VOICE OF NATURE 1](readmeImages/VOICE_OF_NATURE_1.png)
 
@@ -25,6 +25,6 @@
 
 **EXAMPLE CODE**
 
-EXAMPLE 1 [Link Text](https://openprocessing.org/sketch/2136848)
+EXAMPLE 1 [Click to view link](https://openprocessing.org/sketch/2136848)
 
-EXAMPLE 2 [Link Text](https://openprocessing.org/sketch/2218092)
+EXAMPLE 2 [Click to view link](https://openprocessing.org/sketch/2218092)
