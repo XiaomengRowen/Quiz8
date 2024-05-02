@@ -2,11 +2,11 @@
 ## Part 1: Imaging Technique Inspiration
 **VOICE OF NATURE**    [Link Text](https://thijsbiersteker.com/voice-of-nature)
 
-![An image of VOICE OF NATURE 1](readmeImages/VOICE_OF_NATURE_1_500_x_246.png)
+![An image of VOICE OF NATURE 1](readmeImages/VOICE_OF_NATURE_1.png)
 
-![An image of Voice Of Nature 2](readmeImages/Voice_Of_Nature_2_500_x_281.jpg)
+![An image of Voice Of Nature 2](readmeImages/Voice_Of_Nature_2.png)
 
-![An image of Voice Of Nature By Thijs Biersteker](readmeImages/Voice_Of_Nature_By_Thijs_Biersteker_500_x_285.jpg)
+![An image of Voice Of Nature By Thijs Biersteker](readmeImages/Voice_Of_Nature_By_Thijs_Biersteker.jpg)
 
 **BRIEF SUMMARY:**
 
@@ -18,9 +18,9 @@
 
 **SCREENSHOT**
 
-![An image of part2_2](readmeImages/part2_2_500_x_493.jpg)
+![An image of part2_2](readmeImages/part2_2.png)
 
-![An image of part2_1](readmeImages/part2_1_500_x_493.jpg)
+![An image of part2_1](readmeImages/part2_1.png)
 
 
 **EXAMPLE CODE**
